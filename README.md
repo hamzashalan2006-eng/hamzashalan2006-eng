@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Hamza Shalan</h1>
-<h3 align="center">Networks & Cybersecurity Student from Jordan</h3>
 
-<p align="center">
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Hamza%20Shalan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Networks%20%26%20Cybersecurity%20Student%20%7C%20Jordan&descAlignY=59&descSize=18" width="100%" alt="Hamza Shalan Header" />
+
+  <h3>👋 Welcome to My GitHub Profile!</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Networks+%26+Cybersecurity+Student;Exploring+Linux+and+Networking;Learning+Python+and+Security;Always+Learning+New+Things" alt="Typing Animation" />
+
+  <p>
+    <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cybersecurity-16213E?style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
+
+</div>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Networks+%26+Cybersecurity+Student;Currently+Learning+and+Building+My+Skills;Interested+in+Networking%2C+Linux%2C+and+Cybersecurity" alt="Typing SVG" />
 </p>
 

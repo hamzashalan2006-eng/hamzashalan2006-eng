@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 About Me
+
 
 ---
 
@@ -39,8 +39,9 @@
 - 🔍 **SOC Operations:** Aspiring SOC Analyst focused on security monitoring, threat detection, and alert investigation.
 - 🚨 **Incident Response:** Interested in incident investigation, containment, and recovery.
 - 🌐 **Networking:** Building strong networking fundamentals with CCNA as a future certification goal.
-
 ---
+
+## 🚀 About Me
 
 - 🎓 I’m a **Networks & Cybersecurity Student**
 - 🌍 I’m from **Jordan**

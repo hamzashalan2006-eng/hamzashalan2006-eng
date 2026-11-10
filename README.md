@@ -2,8 +2,8 @@
 <div align="center">
 
  
-<h1 align="center">🛡️ Hamza Shalan 🛡️</h1>
-<h3 align="center">🌐 Networks & Cybersecurity Student | Jordan 🇯🇴</h3>
+
+<img src="./hamza-github-banner.svg" width="100%" alt="Hamza Shalan Cybersecurity Banner" />
 
 
   <h3>👋 Welcome to My GitHub Profile!</h3>
@@ -23,6 +23,24 @@
 ---
 
 ## 🚀 About Me
+
+---
+
+## 🛡️ Cybersecurity Career Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blue%20Team-Defensive%20Security-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOC-Security%20Operations-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incident%20Response-DFIR-00A6A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-CCNA%20Learning%20Path-1BA0D7?style=for-the-badge" />
+</p>
+
+- 🔵 **Blue Team:** Interested in defending systems and networks against cyber threats.
+- 🔍 **SOC Operations:** Aspiring SOC Analyst focused on security monitoring, threat detection, and alert investigation.
+- 🚨 **Incident Response:** Interested in incident investigation, containment, and recovery.
+- 🌐 **Networking:** Building strong networking fundamentals with CCNA as a future certification goal.
+
+---
 
 - 🎓 I’m a **Networks & Cybersecurity Student**
 - 🌍 I’m from **Jordan**
